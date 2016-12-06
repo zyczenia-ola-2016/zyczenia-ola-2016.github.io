@@ -1,0 +1,17 @@
+body {
+	max-width: 600px;
+	background-color: #111111;
+	color: #eeeeee;
+	font-size: 2em;
+}
+
+p {
+	margin: 2em;
+}
+
+.wishes {
+	margin-top: 10em;
+	margin-left: 5em;
+}
+
+img { display:block; }  
